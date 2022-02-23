@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Сalculation of the lambing of goats"
